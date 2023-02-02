@@ -7,7 +7,7 @@ Non-maximum suppression (NMS) is an unavoidable post-processing step in the obje
 
 ![alt text](https://github.com/hyeonjinXZ/Parallel-NMS/blob/main/parallel_nms.png "Parallel_NMS")
 
-# Citation
+## Citation
 If you find this code useful, please consider citing:
 ```
 @ARTICLE{9646917,
