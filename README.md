@@ -22,4 +22,4 @@ If you find this code useful, please consider citing:
 ```
 
 ## Acknowledgements
-We thank [Minseong Kim] (https://github.com/tyui592) who provides the base code of detection.
+We thank [Minseong Kim](https://github.com/tyui592) who provides the base code of detection.
