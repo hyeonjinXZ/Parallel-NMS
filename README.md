@@ -1,4 +1,4 @@
-# Parallel-NMS
+# Parallelization of Non-Maximum Suppression
 ##### Hyeonjin Lee, Jeong-Sik Lee, and Hyun-Chul Choi
 ##### IEEE ACCESS https://ieeexplore.ieee.org/document/9646917
 ##### Code: [non_maximum_supression.py](https://github.com/hyeonjinXZ/Parallel-NMS/blob/main/non_maximum_supression.py)
